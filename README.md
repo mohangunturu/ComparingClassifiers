@@ -52,7 +52,7 @@ Used several techniques to build and comparing performance of algorithms
 ## Summary of Model Performance and Valdiation
 
 
-                    Train Time	Train Accuracy	Test Accuracy
+	Train Time	Train Accuracy	Test Accuracy
 model			
 K Nearest Neighbors	0.006158	0.952710	0.916633
 Logistic Regression	0.119023	0.926934	0.925225
